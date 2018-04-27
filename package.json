@@ -11,7 +11,7 @@
     "e2e": "ng e2e",
     "precommit": "npm run lint && npm run commitlint",
     "commitlint": "commitlint -e",
-    "test cover":"rm -rf ./coverag && ng test --no-watch --code-coverage",
+    "test cover":"rm -rf ./coverage && ng test --no-watch --code-coverage",
     "coveralls":  "cat ./coverage/lcov.info | ./node_modules/coveralls.js"
   },
   "private": true,
