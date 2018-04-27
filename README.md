@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/Saifou/DashingJS2/badge.svg?branch=master)](https://coveralls.io/github/Saifou/DashingJS2?branch=master)
+[![Build Status](https://travis-ci.org/Saifou/DashingJS2.svg?branch=master)](https://travis-ci.org/Saifou/DashingJS2)
+
 # DashingJS2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
