@@ -10,8 +10,10 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "precommit": "npm run commitlint lint",
+    "precommit": "npm run lint",
     "commitlint": "commitlint -e",
-    "test cover": "rm -rf ./coverage ng test --no-watch --code-coverage",
+    "test cover": "rm -rf ./coverage",
+    "test cover": "ng test --no-watch --code-coverage",
     "coveralls":  "cat ./coverage/lcov.info | ./node_modules/coveralls.js"
   },
   "private": true,
