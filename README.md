@@ -1,5 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Saifou/DashingJS2/badge.svg?branch=master)](https://coveralls.io/github/Saifou/DashingJS2?branch=master)
 [![Build Status](https://travis-ci.org/Saifou/DashingJS2.svg?branch=master)](https://travis-ci.org/Saifou/DashingJS2)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/92ae952ce9734ad08b3ef413db6a56d2)](https://www.codacy.com/app/Saifou/DashingJS2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Saifou/DashingJS2&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/github/saifou/dashingjs2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/saifou/dashingjs2?targetFile=package.json)
 
 # DashingJS2
